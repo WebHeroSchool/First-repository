@@ -1,2 +1,2 @@
 first project
-change project
+change project version 2
